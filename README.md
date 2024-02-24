@@ -1,3 +1,5 @@
+![Artificacial](https://github.com/artificacial/artificacial/blob/main/asciiArtificacial.png)
+
 ## Bienvenidos todos, 👋🏻
 
 Hoy quiero llevarlos en un viaje a través del mundo del diseño y desarrollo web, donde la creatividad y la tecnología se fusionan para crear experiencias únicas.
