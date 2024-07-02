@@ -20,7 +20,8 @@ Creo en el poder de la colaboración, y por eso, trabajo estrechamente con mis c
 Mi proceso creativo es transparente y centrado en el cliente, asegurando que cada proyecto sea único y represente fielmente la identidad de la marca.
 
 ## Tech Stacks
-![Static Badge](https://img.shields.io/badge/HTML5-orange) ![Static Badge](https://img.shields.io/badge/CSS3-blue) ![Static Badge](https://img.shields.io/badge/JavaScript%20ES6-yellow) ![Static Badge](https://img.shields.io/badge/React-purple)
+![Static Badge](https://img.shields.io/badge/HTML5-orange) ![Static Badge](https://img.shields.io/badge/CSS3-blue) ![Static Badge](https://img.shields.io/badge/JavaScript%20ES6-yellow) ![Static Badge](https://img.shields.io/badge/React-%2309D2F6)
+
 
 
 
