@@ -1,6 +1,6 @@
 ![Artificacial](https://github.com/artificacial/artificacial/blob/main/asciiArtificacial.png)
 
-## Bienvenidos todos, 👋🏻
+## Bienvenidos todos, 👋🏻 ![Greeting](https://github.com/artificacial/artificacial/blob/main/logo/512.webp)
 
 Hoy quiero llevarlos en un viaje a través del mundo del diseño y desarrollo web, donde la creatividad y la tecnología se fusionan para crear experiencias únicas.
 Mi nombre es Óscar, y soy el fundador y cerebro detrás de Artificacial, una marca de diseño comercial que está redefiniendo los límites de la creatividad en línea.
