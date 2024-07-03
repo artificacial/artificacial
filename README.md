@@ -22,6 +22,8 @@ Mi proceso creativo es transparente y centrado en el cliente, asegurando que cad
 ## Tech Stacks
 ![Static Badge](https://img.shields.io/badge/HTML5-orange) ![Static Badge](https://img.shields.io/badge/CSS3-blue) ![Static Badge](https://img.shields.io/badge/JavaScript%20ES6-yellow) ![Static Badge](https://img.shields.io/badge/React-%2309D2F6) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2318ADB4) ![Static Badge](https://img.shields.io/badge/Sass-%23C06190) ![Static Badge](https://img.shields.io/badge/Bootstrap-%237B11F3) ![Static Badge](https://img.shields.io/badge/NPM-%23C53635) ![Static Badge](https://img.shields.io/badge/GIT-%23E84D31) ![Static Badge](https://img.shields.io/badge/Next-black) 
 
+## Programas
+
 ## ¡Únete a mi en este Viaje! 😄 
 
 ¿Estás listo para elevar tu presencia en línea al siguiente nivel? ¡Únete a mi en Artificacial y descubre lo que el futuro del diseño web tiene reservado para ti!
