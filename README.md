@@ -19,6 +19,13 @@ Mi enfoque se centra en crear experiencias digitales inmersivas que cautiven y d
 Creo en el poder de la colaboración, y por eso, trabajo estrechamente con mis clientes para comprender sus visiones y convertirlas en realidades digitales cautivadoras.
 Mi proceso creativo es transparente y centrado en el cliente, asegurando que cada proyecto sea único y represente fielmente la identidad de la marca.
 
+### 🎨 Mis Servicios
+
+- 💻 Diseño Web Responsivo
+- 🛠️ Desarrollo Frontend
+- 📱 Aplicaciones Web Progresivas (PWA)
+- 🔍 Optimización SEO
+
 ## Tech Stacks
 ![Static Badge](https://img.shields.io/badge/HTML5-orange) ![Static Badge](https://img.shields.io/badge/CSS3-blue) ![Static Badge](https://img.shields.io/badge/JavaScript%20ES6-yellow) ![Static Badge](https://img.shields.io/badge/React-%2309D2F6) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2318ADB4) ![Static Badge](https://img.shields.io/badge/Sass-%23C06190) ![Static Badge](https://img.shields.io/badge/Bootstrap-%237B11F3) ![Static Badge](https://img.shields.io/badge/NPM-%23C53635) ![Static Badge](https://img.shields.io/badge/GIT-%23E84D31) ![Static Badge](https://img.shields.io/badge/Next-black) 
 
