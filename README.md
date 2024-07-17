@@ -1,4 +1,5 @@
-![Artificacial](https://github.com/artificacial/artificacial/blob/main/asciiArtificacial.png)
+![Artificacial](https://github.com/artificacial/artificacial/blob/main/artificacial.png)
+
 
 ## Bienvenidos todos, 👋🏻 
 
