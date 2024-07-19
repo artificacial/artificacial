@@ -1,9 +1,7 @@
 ![Artificacial](https://github.com/artificacial/artificacial/blob/main/artificacial.png)
----html
-<p align="center">
+<div style="text-align: center;">
 ![Static Badge](https://img.shields.io/badge/HTML5-orange) ![Static Badge](https://img.shields.io/badge/CSS3-blue) ![Static Badge](https://img.shields.io/badge/JavaScript%20ES6-yellow) ![Static Badge](https://img.shields.io/badge/React-%2309D2F6) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2318ADB4) ![Static Badge](https://img.shields.io/badge/Sass-%23C06190) ![Static Badge](https://img.shields.io/badge/Bootstrap-%237B11F3) ![Static Badge](https://img.shields.io/badge/NPM-%23C53635) ![Static Badge](https://img.shields.io/badge/GIT-%23E84D31) ![Static Badge](https://img.shields.io/badge/Next-black) 
-</p>
----
+</div>
 ## Bienvenidos todos, 👋🏻 
 
 Hoy quiero llevarlos en un viaje a través del mundo del diseño y desarrollo web, donde la creatividad y la tecnología se fusionan para crear experiencias únicas.
