@@ -1,6 +1,6 @@
 ![Artificacial](https://github.com/artificacial/artificacial/blob/main/artificacial.png)
 
-<div style="text-align: center;">
+<p style="text-align: center;">
   <img src="https://img.shields.io/badge/HTML5-orange" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-blue" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/JavaScript%20ES6-yellow" alt="JavaScript ES6 Badge" />
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/NPM-%23C53635" alt="NPM Badge" />
   <img src="https://img.shields.io/badge/GIT-%23E84D31" alt="GIT Badge" />
   <img src="https://img.shields.io/badge/Next-black" alt="Next Badge" />
-</div>
+</p>
 
 ## Bienvenidos todos, 👋🏻 
 
