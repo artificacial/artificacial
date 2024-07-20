@@ -22,6 +22,7 @@
   <a href="#contact">Contáctanos</a> •
   <a href="#followUs">Síguenos</a>
 </p>
+---
 
 ## Bienvenidos todos, 👋🏻 
 
