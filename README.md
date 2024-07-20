@@ -13,7 +13,14 @@
   <img src="https://img.shields.io/badge/Next-black" alt="Next Badge" />
 </p>
 <br>
-[![Diseño web Responsivo](https://)](#DiseñoResponsivo)
+
+<div style="display: flex; gap: 10px;">
+  <a href="#inicio">Inicio</a>
+  <a href="#instalación">Instalación</a>
+  <a href="#uso">Uso</a>
+  <a href="#contribuir">Contribuir</a>
+  <a href="#licencia">Licencia</a>
+</div>
 
 ## Bienvenidos todos, 👋🏻 
 
