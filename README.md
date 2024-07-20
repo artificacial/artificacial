@@ -15,11 +15,12 @@
 <br>
 
 <p align="center">
-  <a href="#DiseñoWebResponsivo">Diseño Web Responsivo</a>
-  <a href="#DesarrolloFrontend">Desarrollo Frontend</a>
-  <a href="#AplicacionesProgresivas">Aplicaciones Web Progresivas</a>
-  <a href="#OptimizacionSeo">Optimizacion SEO</a>
-  <a href="#licencia">Licencia</a>
+  <a href="#aboutUs">Acerca de nosotros</a> •
+  <a href="#lastPost">Ultimos artículos</a> •
+  <a href="#category">Categorías</a> •
+  <a href="#suscribe">Suscríbete</a> •
+  <a href="#contact">Contáctanos</a> •
+  <a href="#followUs">Síguenos</a>
 </p>
 
 ## Bienvenidos todos, 👋🏻 
