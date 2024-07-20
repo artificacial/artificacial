@@ -14,11 +14,11 @@
 </p>
 <br>
 
-<div style="display: flex; gap: 10px;">
-  <a href="#inicio">Inicio</a>
-  <a href="#instalación">Instalación</a>
-  <a href="#uso">Uso</a>
-  <a href="#contribuir">Contribuir</a>
+<div style="display: flex; gap: 10px; align="center">
+  <a href="#DiseñoWebResponsivo">Diseño Web Responsivo</a>
+  <a href="#DesarrolloFrontend">Desarrollo Frontend</a>
+  <a href="#AplicacionesProgresivas">Aplicaciones Web Progresivas</a>
+  <a href="#OptimizacionSeo">Optimizacion SEO</a>
   <a href="#licencia">Licencia</a>
 </div>
 
