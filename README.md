@@ -50,7 +50,6 @@ Mi proceso creativo es transparente y centrado en el cliente, asegurando que cad
 
 🎉 ¡Gracias! 🎉
 
-![Buy Me A Coffe](https://github.com/artificacial/artificacial/blob/main/bmc_qr.png)
 <img src="https://github.com/artificacial/artificacial/blob/main/bmc_qr.png" width="300" height="300"/>
 
 
