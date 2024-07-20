@@ -14,7 +14,7 @@
 </p>
 <br>
 
-<div style="display: flex; gap: 10px; justify-content="center">
+<div style="display: flex; gap: 10px; justify-content:center;">
   <a href="#DiseñoWebResponsivo">Diseño Web Responsivo</a>
   <a href="#DesarrolloFrontend">Desarrollo Frontend</a>
   <a href="#AplicacionesProgresivas">Aplicaciones Web Progresivas</a>
