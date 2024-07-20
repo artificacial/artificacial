@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Next-black" alt="Next Badge" />
 </p>
 <br>
-![Diseño web responsivo](DiseñoREsponsivo) | ![Desarrollo frontend](DesarrolloFrontend)
+[Diseño web Responsivo](#DiseñoREsponsivo)
 ## Bienvenidos todos, 👋🏻 
 
 Hoy quiero llevarlos en un viaje a través del mundo del diseño y desarrollo web, donde la creatividad y la tecnología se fusionan para crear experiencias únicas.
