@@ -14,13 +14,13 @@
 </p>
 <br>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <a href="#DiseñoWebResponsivo">Diseño Web Responsivo</a>
   <a href="#DesarrolloFrontend">Desarrollo Frontend</a>
   <a href="#AplicacionesProgresivas">Aplicaciones Web Progresivas</a>
   <a href="#OptimizacionSeo">Optimizacion SEO</a>
   <a href="#licencia">Licencia</a>
-</div>
+</p>
 
 ## Bienvenidos todos, 👋🏻 
 
