@@ -1,6 +1,5 @@
 ![Artificacial](https://github.com/artificacial/artificacial/blob/main/artificacial.png)
 <br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-blue" alt="CSS3 Badge" />
