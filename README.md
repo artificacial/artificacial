@@ -1,5 +1,6 @@
 ![Artificacial](https://github.com/artificacial/artificacial/blob/main/artificacial.png)
 <br>
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blue) [![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social)](https://github.com/tu-usuario/?tab=follow) [![Linkedin: tu-nombre](https://img.shields.io/badge/-tu--nombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-nombre/)](https://www.linkedin.com/in/tu-nombre/) [![Twitter Follow](https://img.shields.io/twitter/follow/tu-usuario?style=social)](https://twitter.com/tu-usuario) [![GitHub](https://img.shields.io/github/stars/tu-usuario?style=social)](https://github.com/tu-usuario) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/tu-usuario)
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-blue" alt="CSS3 Badge" />
