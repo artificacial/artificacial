@@ -62,6 +62,11 @@ Mi proceso creativo es transparente y centrado en el cliente, asegurando que cad
 ## Programas
 <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/devicon--photoshop.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/skill-icons--illustrator.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/devicon--canva.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/devicon--notion.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/devicon--sketch.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/logos--adobe-indesign.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/logos--trello.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/logos--zeplin.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/openmoji--wireframes.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/skill-icons--figma-dark.png" width="32px" height="32px"><span>
 
+## 📫 Conéctate conmigo
+
+- LinkedIn: [tu-nombre](https://www.linkedin.com/in/artificacial/)
+- Twitter: [@tu-usuario](https://twitter.com/OArtificacialTk)
+- Sitio Web: [tusitio.com](https://www.tusitio.com)
 
 ## ¡Únete a mi en este Viaje! 😄 
 
