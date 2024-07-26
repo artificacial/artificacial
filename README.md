@@ -78,7 +78,7 @@ Mi proceso creativo es transparente y centrado en el cliente, asegurando que cad
 
 Si te gusta mi trabajo y quieres apoyarme, puedes invitarme a un café.
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tu-usuario)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Oslar)
 
 ¡Gracias por tu apoyo!
 
