@@ -64,8 +64,8 @@ Mi proceso creativo es transparente y centrado en el cliente, asegurando que cad
 
 ## 📫 Conéctate conmigo
 
-- LinkedIn: [tu-nombre](https://www.linkedin.com/in/artificacial/)
-- Twitter: [@tu-usuario](https://twitter.com/OArtificacialTk)
+- LinkedIn: [Artificacial](https://www.linkedin.com/in/artificacial/)
+- Twitter: [@OArtificacialTk](https://twitter.com/OArtificacialTk)
 - Sitio Web: [tusitio.com](https://www.tusitio.com)
 
 ## ¡Únete a mi en este Viaje! 😄 
@@ -73,6 +73,16 @@ Mi proceso creativo es transparente y centrado en el cliente, asegurando que cad
 ¿Estás listo para elevar tu presencia en línea al siguiente nivel? ¡Únete a mi en Artificacial y descubre lo que el futuro del diseño web tiene reservado para ti!
 
 🎉 ¡Gracias! 🎉
+
+## ☕ Apóyame
+
+Si te gusta mi trabajo y quieres apoyarme, puedes invitarme a un café.
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tu-usuario)
+
+¡Gracias por tu apoyo!
+
+---
 
 <img src="https://github.com/artificacial/artificacial/blob/main/bmc_qr.png" width="300" height="300"/>
 
