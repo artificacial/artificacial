@@ -88,8 +88,8 @@ Si te gusta mi trabajo y quieres apoyarme, puedes invitarme a un café.
 
 ## 📈 Estadísticas de GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)](https://github.com/tu-usuario/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&count_private=true)](https://github.com/tu-usuario/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artificacial&layout=compact)](https://github.com/artificacial/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artificacial&show_icons=true&count_private=true)](https://github.com/artificacial/github-readme-stats)
 
 
 
