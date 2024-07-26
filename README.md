@@ -25,6 +25,8 @@
 
 ## Bienvenidos todos, 👋🏻 
 
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blue) [![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social)](https://github.com/tu-usuario/?tab=follow) [![Linkedin: tu-nombre](https://img.shields.io/badge/-tu--nombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-nombre/)](https://www.linkedin.com/in/tu-nombre/) [![Twitter Follow](https://img.shields.io/twitter/follow/tu-usuario?style=social)](https://twitter.com/tu-usuario) [![GitHub](https://img.shields.io/github/stars/tu-usuario?style=social)](https://github.com/tu-usuario) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/tu-usuario)
+
 Hoy quiero llevarlos en un viaje a través del mundo del diseño y desarrollo web, donde la creatividad y la tecnología se fusionan para crear experiencias únicas.
 Mi nombre es Óscar, y soy el fundador y cerebro detrás de Artificacial, una marca de diseño comercial que está redefiniendo los límites de la creatividad en línea.
 
