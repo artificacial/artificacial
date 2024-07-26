@@ -86,6 +86,10 @@ Si te gusta mi trabajo y quieres apoyarme, puedes invitarme a un café.
 
 <img src="https://github.com/artificacial/artificacial/blob/main/bmc_qr.png" width="300" height="300"/>
 
+## 📈 Estadísticas de GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)](https://github.com/tu-usuario/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&count_private=true)](https://github.com/tu-usuario/github-readme-stats)
 
 
 
