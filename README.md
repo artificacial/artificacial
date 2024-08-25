@@ -27,24 +27,24 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=artificacial&color=blue) [![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social)](https://github.com/artificacial/?tab=follow) [![Linkedin: artificacial](https://img.shields.io/badge/artificacial-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-nombre/)](https://www.linkedin.com/in/artificacial/) [![Twitter Follow](https://img.shields.io/twitter/follow/OArtificacialTk?style=social)](https://twitter.com/OArtificacilaTk) [![GitHub](https://img.shields.io/github/stars/artificacial?style=social)](https://github.com/artificacial) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/Oslar)
 
-Hoy quiero llevarlos en un viaje a través del mundo del diseño y desarrollo web, donde la creatividad y la tecnología se fusionan para crear experiencias únicas.
+Hoy queremos acompañaros en un viaje a través del mundo del diseño y desarrollo web, donde la creatividad y la tecnología se fusionan para crear experiencias únicas.
 Mi nombre es Óscar, y soy el fundador y cerebro detrás de Artificacial, una marca de diseño comercial que está redefiniendo los límites de la creatividad en línea.
 
-## ¿Quién soy?
+## ¿Quiénes somos?
 
-Soy un diseñador y desarrollador web apasionado con un ojo para la innovación y la estética cautivadora. He pasado años perfeccionando mi oficio, explorando las intersecciones entre el diseño, la tecnología y la narrativa visual.
+Somos diseñadores y desarrolladores web apasionados con un ojo para la innovación y la estética cautivadora. Hemos pasado años perfeccionando muestro oficio, explorando las intersecciones entre el diseño, la tecnología y la narrativa visual.
 
 ## Artificacial: Más que una Marca, una Experiencia 🔭
 
 Artificacial no es solo una marca, es una **filosofía**. Esta especializada en el **diseño y desarrollo web**, la **ilustración y el mundo 3D**.
-Mi enfoque se centra en crear experiencias digitales inmersivas que cautiven y deleiten a mis clientes y sus audiencias.
+Nuestro enfoque se centra en crear experiencias digitales inmersivas que cautiven y deleiten a nuestros clientes y sus audiencias.
 
 ## Colaboración y Creatividad 👯 
 
-Creo en el poder de la colaboración, y por eso, trabajo estrechamente con mis clientes para comprender sus visiones y convertirlas en realidades digitales cautivadoras.
-Mi proceso creativo es transparente y centrado en el cliente, asegurando que cada proyecto sea único y represente fielmente la identidad de la marca.
+Creemos en el poder de la colaboración, y por eso, trabajamos estrechamente con nuestros clientes para comprender sus visiones y convertirlas en realidades digitales cautivadoras.
+Nuestro proceso creativo es transparente y centrado en el cliente, asegurando que cada proyecto sea único y represente fielmente la identidad de la marca.
 
-### 🎨 Mis Servicios
+### 🎨 Nuestros Servicios
 
 - 💻 Diseño Web Responsivo
 - 🛠️ Desarrollo Frontend
@@ -62,21 +62,21 @@ Mi proceso creativo es transparente y centrado en el cliente, asegurando que cad
 ## Programas
 <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/devicon--photoshop.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/skill-icons--illustrator.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/devicon--canva.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/devicon--notion.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/devicon--sketch.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/logos--adobe-indesign.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/logos--trello.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/logos--zeplin.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/openmoji--wireframes.png" width="32px" height="32px"><span> <span><img src="https://github.com/artificacial/artificacial/blob/main/logo/skill-icons--figma-dark.png" width="32px" height="32px"><span>
 
-## 📫 Conéctate conmigo
+## 📫 Conéctate con nosotros
 
 - LinkedIn: [Artificacial](https://www.linkedin.com/in/artificacial/)
 - Twitter: [@OArtificacialTk](https://twitter.com/OArtificacialTk)
 - Sitio Web: [tusitio.com](https://www.tusitio.com)
 
-## ¡Únete a mi en este Viaje! 😄 
+## ¡Únete a nosotros en este Viaje! 😄 
 
-¿Estás listo para elevar tu presencia en línea al siguiente nivel? ¡Únete a mi en Artificacial y descubre lo que el futuro del diseño web tiene reservado para ti!
+¿Estás listo para elevar tu presencia en línea al siguiente nivel? ¡Únete a Artificacial y descubre lo que el futuro del diseño web tiene reservado para ti!
 
 🎉 ¡Gracias! 🎉
 
-## ☕ Apóyame
+## ☕ Apóyanos
 
-Si te gusta mi trabajo y quieres apoyarme, puedes invitarme a un café.
+Si te gusta nuestro trabajo y quieres apoyarnos, puedes invitarnos a un café.
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Oslar)
 
