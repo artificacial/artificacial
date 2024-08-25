@@ -1,4 +1,4 @@
-![Artificacial](https://github.com/artificacial/artificacial/blob/main/artificacial.png)
+![Artificacial](https://github.com/artificacial/artificacial/blob/main/Artificacial.jpg)
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange" alt="HTML5 Badge" />
